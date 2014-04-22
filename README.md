@@ -21,7 +21,7 @@ In diesem Repository werden alle Lernfelder basierend auf den Themen von http://
  - [U3: Computerschnittstellen](https://github.com/mbunge/MegAP2014/blob/master/MP/MP_U3.md)
  - [U4: Kabellose Netzwerke](https://github.com/mbunge/MegAP2014/blob/master/MP/MP_U4.md)
  - [U5:	Webseiten-Layout](https://github.com/mbunge/MegAP2014/blob/master/MP/MP_U5.md)
- - U6: Kamerasensorgrößen
+ - [U6: Kamerasensorgrößen](https://github.com/mbunge/MegAP2014/blob/master/MP/MP_U6.md)
  - U7: Video auf Webseiten
  - U8: SQL
  - U9:	Logoentwicklung
