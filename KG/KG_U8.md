@@ -47,7 +47,7 @@ Falls die Firma den Artikel Staubsauger aus dem Programm nimmt, so können nicht
 
 Eine Datenbank besteht aus einer oder mehreren Datenbaktabellen, in der Fachsprache auch Relation (engl. f. Beziehung) genannt.
 
-###Fachbegriffe in alltägliche Begriffe im Vergeleich
+###Fachbegriffe und alltägliche Begriffe im Vergeleich
 
  - **Relationenname**: _Der Name eine Datenbanktabelle_
  - **Attribut**: _eine Spalte, ein Feld einer Tabelle_
