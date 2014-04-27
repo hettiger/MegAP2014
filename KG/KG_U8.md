@@ -59,4 +59,4 @@ Eine Datenbank besteht aus einer oder mehreren Datenbaktabellen, in der Fachspra
  - **Grad**: _Anzahl der Tabellen einer Spalte_
  - **Primärschlüssel**: _*eindeutiger* Bezeichner einer Zeile (Tupel)_ (Siehe _Tabelle 1_ *Verk_nr*)
 
-###[ein Schaubild](http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Begriffe_relationaler_Datenbanken.svg/800px-Begriffe_relationaler_Datenbanken.svg.png)
+[Fachbegriffe in einem Schaubild](http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Begriffe_relationaler_Datenbanken.svg/800px-Begriffe_relationaler_Datenbanken.svg.png)
