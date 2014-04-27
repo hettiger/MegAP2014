@@ -15,7 +15,7 @@ Einträge sind Verweise auf andere Einträge in anderen Tabellen.
  - _Gute Handhabbarkeit, einfache Zugriffe über möglichst wenige_: Daten sind übersichtlich abgelegt und Abfragen der Daten sind einfach.
  - _Konsitenz und Integrität_: Datenbeziehungen bleiben logisch und stimmit. Reduzierte Gefahr von Datenverlust z.B. durch Updates oder Löschen.
 
-##Beispiel
+##Ein Beispiel - wie es nicht gemacht werden sollte
 
 Eine Tabelle abgesetzten Produkten nach Verkäufer (_Tabelle 1_):
 
@@ -24,9 +24,9 @@ Verk_nr | Verk_name | PLZ | Verk_adresse | Produktname | Umsatz
 V1 | Meier | 80075 | München | PC | 1200
 V1 | Meier | 80075 | München | Laptop | 800
 V1 | Meier | 80075 | München | Drucker | 300
-V1 | Schneider | 70038 | Stuttgard | Laptop | 800
-V1 | Schneider | 70038 | Stuttgard | Drucker | 300
-V1 | Müller | 10183 | Berlin | PC | 1200
+V2 | Schneider | 70038 | Stuttgard | Laptop | 800
+V2 | Schneider | 70038 | Stuttgard | Drucker | 300
+V3 | Müller | 10183 | Berlin | PC | 1200
 
 Zu jedem Verkäufer ist 
  1. dessen Nummer und Name (*Verk_Nr* und *Verk_Name*),
@@ -44,3 +44,21 @@ besteht die Gefahr von Inkonsistenzen
 Redundanz ist immer eine Gefahrenquelle für Fehler und Inkonsistenzen.
 Falls die Firma den Artikel Staubsauger aus dem Programm nimmt, so können nicht einfach die Zeilen, die den Produktnamen Staubsauger enthalten, entfernt werden, da sonst auch alle
 Informationen zu Verkäufer Müller aus der Datenbank entfernt werden!
+
+##Die Datenbank Tabelle - Relationale Datenstrukturen
+
+Eine Datenbank besteht aus einer oder mehreren Datenbaktabellen, in der Fachsprache auch Relation (engl. f. Beziehung) genannt.
+
+Nachfolgend eine Gegenüberstellung von *formalen relationalen Ausdrücken* und _informaellen alltäglichen Ausdrücken_:
+
+ - *Relationenname*: _Der Name eine Datenbanktabelle_
+ - *Attribut*: _eine Spalte, ein Feld einer Tabelle_
+ - *Relationenschema*: _Der Tabellenkopf_
+ - *Relation*: _(Datenbank)Tabelle_
+ - *Tupel*: _eine Zeile (Reihe) einer Tabelle_
+ - *Wert*: _Der Wert eine Zeile_
+ - *Kardinalität*: _Anzahl der Zeilen einer Tabelle_
+ - *Grad*: _Anzahl der Tabellen einer Spalte_
+ - *Primärschlüssel*: _*eindeutiger* Bezeichner einer Zeile (Tupel)_ (Siehe _Tabelle 1_ *Verk_nr*)
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Begriffe_relationaler_Datenbanken.svg/800px-Begriffe_relationaler_Datenbanken.svg.png
