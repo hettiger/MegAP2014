@@ -115,4 +115,4 @@ Ogg ist ein Container-Dateiformat für Multimedia-Dateien, kann also gleichzeiti
 
 ##Ein übersichtliches Infovideo von Bueny
 
-[![Ein übersichtliches Infovideo von Bueny](http://img.youtube.com/vi/jp-Tlr3kJqg/0.jpg)](http://www.youtube.com/watch?v=jp-Tlr3kJqg)]
+[![Ein übersichtliches Infovideo von Bueny](http://img.youtube.com/vi/jp-Tlr3kJqg/0.jpg)](http://www.youtube.com/watch?v=jp-Tlr3kJqg)
