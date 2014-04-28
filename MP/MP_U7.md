@@ -31,13 +31,7 @@ Mit dieser Variante können wir für mehrere Browser Videos bereitstellen.
     <source type="video/webm" src="myvideo.webm" />
     <!-- Ogg/Vorbis for older Firefox and Opera versions -->
     <source type="video/ogg" src="myvideo.ogv" />
-    <!-- Flash fallback for non-HTML5 browsers without JavaScript -->
-    <object width="320" height="240" type="application/x-shockwave-flash" data="flashmediaelement.swf">
-        <param name="movie" value="flashmediaelement.swf" />
-        <param name="flashvars" value="controls=true&file=myvideo.mp4" />
-        <!-- Image as a last resort -->
-        <img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" />
-    </object>
+    <!-- Wenn das Videotag nicht unterstützt wird, dann wird diese Nachricht angezeigt -->
     <p>Dein Browser ist leider zu alt f&uuml;r den Video-tag :(</p>
 </video>
 ```
