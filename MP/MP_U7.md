@@ -1,5 +1,7 @@
 #Video auf Webseiten
 
+Nachfolgend gehe ich auf das Videotag und die Videodateitypen ein. Abgerundet wird diese Übersicht mit einem Infovideo von Bueny.
+
 ##HTML
 Moderne Webseiten werden heutzutage mit HTML5 umgesetzt. HTML5 bietet viele Neuerungen, darunter auch das ```<video>```-Tag. Damit Videos in allen Browsern verfügbar sind müssen wir mit mehreren Videodateitypen (siehe unten) arbeiten.
 
@@ -95,22 +97,22 @@ Gültige URL zum jeweiligen Medieninhalt (sofern nur ein Video verwendet wird)
 
 Gültiger Dateityp für das Video.
 
-###Die Videodateitypen
+##Die Videodateitypen
 
 Durch die aktuelle Browservielfalt sind wir leider gezwungen mit mehreren Videodateitypen zu arbeiten. Nachfolgend eine kurze Übersicht über die Formate:
 
-####MPEG4 (H.264)
+###MPEG4 (H.264)
 
 H.264/MPEG-4 AVC ist ein [H.-Standard](http://de.wikipedia.org/wiki/H.-Standards) zur hocheffizienten Videokompression. H.264 wurde nicht auf einen spezifischen Verwendungszweck zugeschnitten, sondern entfaltet seine Leistung in einem recht breiten Spektrum an Anwendungen. [Mehr Informationen](http://de.wikipedia.org/wiki/H.264)
 
-####WebM (Theora)
+###WebM (Theora)
 
 WebM ist ein Video-Containerformat, das für das Internet entwickelt wurde. Das von Google initiierte Projekt wird unter anderem von der Mozilla Foundation und von Opera Software unterstützt. [Mehr Informationen](http://de.wikipedia.org/wiki/WebM)
 
-####Ogg (VP8)
+###Ogg (VP8)
 
 Ogg ist ein Container-Dateiformat für Multimedia-Dateien, kann also gleichzeitig Audio-, Video- sowie Textdaten enthalten. Ogg wurde mit dem Ziel konzipiert, eine freie und von Softwarepatenten unbeschränkte Alternative zu proprietären Formaten zu bieten, um Multimedia-Inhalte effizient zu speichern und zu streamen. [Mehr Informationen](http://de.wikipedia.org/wiki/Ogg)
 
-##Ein Infovideo
+##Ein übersichtliches Infovideo von Bueny
 
-[Ein übersichtliches Infovideo von Bueny](https://www.youtube.com/watch?v=jp-Tlr3kJqg&feature=youtube_gdata_player)
+[![Ein übersichtliches Infovideo von Bueny](http://img.youtube.com/vi/jp-Tlr3kJqg/0.jpg)](http://www.youtube.com/watch?v=jp-Tlr3kJqg)]
