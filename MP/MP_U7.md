@@ -21,7 +21,7 @@ Nachfolgend eine simple Varainte des Videotags. Ein Kompatibilität zu mehreren 
 
 ####Komplexe Variante
 
-Mit dieser Variante können für mehrere Browser Videos bereitstellen.
+Mit dieser Variante können wir für mehrere Browser Videos bereitstellen.
 
 ```html
 <video width="320" height="240" poster="poster.jpg" controls="controls" autoplay loop>
