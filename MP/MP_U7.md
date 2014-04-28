@@ -1,5 +1,11 @@
 #Video auf Webseiten
 
+##Infos
+* [The HTML <video> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+* [Media formats supported by the HTML audio and video elements](https://developer.mozilla.org/en-US/docs/HTML/Supported_media_formats)
+
+===========
+
 Nachfolgend gehe ich auf das Videotag und die Videodateitypen ein. Abgerundet wird diese Übersicht mit einem Infovideo von Bueny.
 
 ##HTML
