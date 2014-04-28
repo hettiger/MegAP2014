@@ -113,6 +113,16 @@ WebM ist ein Video-Containerformat, das für das Internet entwickelt wurde. Das 
 
 Ogg ist ein Container-Dateiformat für Multimedia-Dateien, kann also gleichzeitig Audio-, Video- sowie Textdaten enthalten. Ogg wurde mit dem Ziel konzipiert, eine freie und von Softwarepatenten unbeschränkte Alternative zu proprietären Formaten zu bieten, um Multimedia-Inhalte effizient zu speichern und zu streamen. [Mehr Informationen](http://de.wikipedia.org/wiki/Ogg)
 
+###Übersicht über unterstützte Dateitypen nach Browser
+
+Browser | Ogg | MP4 | WebM
+--- | --- | --- | ---
+Internet Explorer 11 | ja | nein | ja
+Firefox 26.0+ | ja | nein | ja
+Chrome 32.0+ | ja | ja | ja
+Safari 7.0+ | ja | ja | nein
+Opera 18+ | ja | nein | ja
+
 ##Ein übersichtliches Infovideo von Bueny
 
 [![Ein übersichtliches Infovideo von Bueny](http://img.youtube.com/vi/jp-Tlr3kJqg/0.jpg)](http://www.youtube.com/watch?v=jp-Tlr3kJqg)
