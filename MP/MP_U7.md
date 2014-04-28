@@ -117,7 +117,7 @@ Ogg ist ein Container-Dateiformat für Multimedia-Dateien, kann also gleichzeiti
 
 Browser | Ogg | MP4 | WebM
 --- | --- | --- | ---
-Internet Explorer 11 | ja | nein | ja
+Internet Explorer 11 | nein | ja | nein
 Firefox 26.0+ | ja | nein | ja
 Chrome 32.0+ | ja | ja | ja
 Safari 7.0+ | ja | ja | nein
